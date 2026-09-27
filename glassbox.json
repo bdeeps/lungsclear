@@ -1,0 +1,103 @@
+{
+  "slug": "lungsclear",
+  "box": 29,
+  "date": "2026-10-09",
+  "title": "LungsClear",
+  "question": "How do the lungs work?",
+  "hook": "You breathe about 20,000 times a day without thinking. Follow one breath from your nose to 480 million tiny air sacs, and watch oxygen slip into your blood.",
+  "thumbText": "HOW LUNGS WORK",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "lungs",
+    "breathing",
+    "respiration",
+    "human body",
+    "oxygen",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A tree of air",
+      "text": "Air flows through your nose, throat and voice box into the windpipe, which splits into two bronchi. They branch about 23 times, ending in roughly 480 million tiny air sacs called alveoli. The right lung has three lobes; the left has two and a notch for the heart."
+    },
+    {
+      "title": "Breathing is Boyle's law",
+      "text": "Your lungs have no muscles. The diaphragm flattens and the ribs lift, so the chest gets bigger. The air inside the lungs gets more room, its pressure falls about 1 cmH2O below the air outside, and air flows in. Breathing out at rest is just the lungs springing back."
+    },
+    {
+      "title": "Swapping gases by diffusion",
+      "text": "Each alveolus is wrapped in capillaries, separated from the air by a wall about 0.5 micrometres thick. Oxygen diffuses from about 100 mmHg in the air sacs into blood arriving at 40; carbon dioxide goes the other way, 46 to 40. Spread flat, the alveoli would cover about 70 square metres."
+    },
+    {
+      "title": "Haemoglobin does the carrying",
+      "text": "Each haemoglobin molecule holds four oxygen molecules, and its S-shaped binding curve fills blood to about 98% in the lungs. Heat, acid and CO2 make it let go in busy muscles. On Everest the air pressure is a third of sea level, and blood carries far less."
+    },
+    {
+      "title": "How much air you hold",
+      "text": "A quiet breath is about 500 mL. A full breath out after a full breath in, the vital capacity, is around 4.5 to 5 litres for a young man, and about 1.2 litres always stays behind. How fast you can blow it out shows whether airways are narrowed."
+    },
+    {
+      "title": "Keeping lungs clean",
+      "text": "Mucus traps dirt and cilia sweep it up to your throat. Smoking slows the cilia, PM2.5 pollution reaches deep into the lungs, and in asthma narrowed airways make breathing much harder, because resistance grows with one over the radius to the fourth power."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Alveoli",
+      "def": "The hundreds of millions of tiny air sacs at the ends of the airways, where gases pass between air and blood."
+    },
+    {
+      "term": "Diaphragm",
+      "def": "The dome-shaped muscle under the lungs. It flattens to pull air in and is the main muscle of breathing."
+    },
+    {
+      "term": "Boyle's law",
+      "def": "At a fixed temperature, a gas's pressure falls as its volume grows. It is why a bigger chest pulls air in."
+    },
+    {
+      "term": "Tidal volume",
+      "def": "The air moved in one quiet breath, about 500 mL for an adult at rest."
+    },
+    {
+      "term": "Partial pressure",
+      "def": "The share of a gas mixture's pressure due to one gas. Gases diffuse from high partial pressure to low."
+    },
+    {
+      "term": "Surfactant",
+      "def": "A soapy film lining the alveoli that lowers surface tension so they don't collapse."
+    },
+    {
+      "term": "Haemoglobin",
+      "def": "The iron-containing protein in red blood cells that carries up to four oxygen molecules."
+    },
+    {
+      "term": "Vital capacity",
+      "def": "The most air you can breathe out after breathing in as far as you can."
+    },
+    {
+      "term": "PM2.5",
+      "def": "Airborne particles smaller than 2.5 micrometres, small enough to reach the alveoli. The WHO yearly guideline is 5 micrograms per cubic metre."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "lungsclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

@@ -1,0 +1,1083 @@
+{
+  "title": "The history of the lungs",
+  "tagline": "2,000 years from ‘breath of life’ to pulse oximeters, ventilators and the fight for clean air.",
+  "intro": "For most of history people knew that breath meant life, but not why. Thinkers in India, China and Greece called it prana, qi or pneuma. Over centuries, doctors traced blood through the lungs, chemists found oxygen, and physiologists learned how it slips into the blood. In the last hundred years machines have learned to breathe for us, babies have been saved by a soapy lining, and the air itself has become a health issue for billions.",
+  "eras": [
+    {
+      "id": "breath",
+      "name": "The breath of life",
+      "from": -600,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "Ancient healers in India, China, Greece and the Islamic world link breath to life and describe the lungs, though no one yet knows what air does."
+    },
+    {
+      "id": "air",
+      "name": "What is in the air?",
+      "from": 1600,
+      "to": 1800,
+      "color": "#ffb547",
+      "summary": "Air pumps, bellows and new gases show that one part of the air keeps us alive, and that breathing is a slow, gentle fire."
+    },
+    {
+      "id": "measure",
+      "name": "Listening, measuring, seeing",
+      "from": 1800,
+      "to": 1925,
+      "color": "#5ce1a9",
+      "summary": "Doctors listen to the chest, measure breaths, find the TB germ and see inside with X-rays, while physiologists learn how oxygen moves."
+    },
+    {
+      "id": "machines",
+      "name": "Machines that breathe",
+      "from": 1925,
+      "to": 1990,
+      "color": "#3fa9ff",
+      "summary": "Iron lungs, ventilators, surfactant, transplants and oximeters keep failing lungs going, while smoking and toxic gas show how lungs can be harmed."
+    },
+    {
+      "id": "modern",
+      "name": "Every breath counts",
+      "from": 1990,
+      "to": 2026,
+      "color": "#ff7a8a",
+      "summary": "Tobacco treaties, clean-air limits and a pandemic put lung health at the centre of public health, especially in India."
+    }
+  ],
+  "events": [
+    {
+      "year": -200,
+      "date": "c. 300 BCE – 300 CE (dates debated)",
+      "era": "breath",
+      "art": "wind",
+      "title": "Prana: the breath of life",
+      "who": "Authors of the Charaka and Sushruta Samhitas",
+      "where": "Ancient India",
+      "country": "India",
+      "text": "The great Ayurveda texts of ancient India were written and edited over several centuries, so their dates are uncertain. They describe prana, the vital air, moving through channels called pranavaha srotas, with roots in the heart. They also name breathing troubles such as shvasa (breathlessness) and kasa (cough).",
+      "why": "Long before anyone knew about oxygen, people saw that breath and life go together.",
+      "box": "breathing",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -100,
+      "date": "c. 1st century BCE (dates debated)",
+      "era": "breath",
+      "art": "scroll",
+      "title": "The lung rules qi",
+      "who": "Authors of the Huangdi Neijing",
+      "where": "Han dynasty China",
+      "country": "China",
+      "text": "The Yellow Emperor’s Inner Classic is a founding text of Chinese medicine. Historians date its parts to between the Warring States period and the Han dynasty. In this tradition the lung governs qi: it breathes in clear qi from nature and breathes out stale qi from the body.",
+      "why": "It pictured the lungs as an exchange between the body and the outside air, which is close to the truth.",
+      "box": "breathing",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 170,
+      "date": "c. 160–200 CE",
+      "era": "breath",
+      "art": "scroll",
+      "key": true,
+      "title": "Galen: breathing cools the heart",
+      "who": "Galen of Pergamon",
+      "where": "Rome, Roman Empire",
+      "country": "Italy",
+      "text": "The Greek doctor Galen taught that we breathe to cool the heat of the heart and to draw in pneuma, a kind of life spirit carried by the air. Earlier, around 250 BCE, Erasistratus in Alexandria had said that pneuma travels from the lungs into the heart and arteries.",
+      "why": "Galen’s ideas ruled medicine in Europe and the Islamic world for well over a thousand years.",
+      "sources": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1242,
+      "date": "c. 1242",
+      "era": "breath",
+      "art": "heart",
+      "key": true,
+      "title": "Blood goes through the lungs",
+      "who": "Ibn al-Nafis",
+      "where": "Cairo, Egypt",
+      "country": "Egypt",
+      "text": "In his Commentary on Anatomy in Avicenna’s Canon, the Damascus-born doctor Ibn al-Nafis said Galen was wrong: blood cannot pass through tiny holes in the wall of the heart. Instead it travels from the right side of the heart to the lungs, mixes with air, and returns to the left side. Europe did not know his work; a copy was found in a Berlin library in 1924.",
+      "why": "It is widely credited as the first correct description of the pulmonary circulation, about 300 years before Europeans described it.",
+      "box": "anatomy",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1660,
+      "date": "1660–1662",
+      "era": "air",
+      "art": "flask",
+      "title": "No air, no life",
+      "who": "Robert Boyle, with Robert Hooke",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "Boyle and his assistant Hooke built an air pump and sucked the air out of glass jars holding mice, birds and insects. The animals collapsed, and a candle went out. In 1662 Boyle published the rule now called Boyle’s law: squeeze a gas into half the space and its pressure doubles.",
+      "why": "Boyle’s law is exactly how you breathe: your chest grows, the pressure inside drops, and air rushes in.",
+      "box": "breathing",
+      "sources": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1667,
+      "date": "1667",
+      "era": "air",
+      "art": "wind",
+      "key": true,
+      "title": "Bellows keep a dog alive",
+      "who": "Robert Hooke",
+      "where": "Royal Society, London, England",
+      "country": "United Kingdom",
+      "text": "People argued about whether the moving of the lungs or the air itself kept us alive. In front of the Royal Society, Hooke pumped air into an opened dog’s lungs with bellows. Even when he kept the lungs still and just let fresh air flow through, the dog lived, and it failed when the fresh air stopped.",
+      "why": "It showed that fresh air, not movement, is what the body needs, and it was an early step toward artificial ventilation.",
+      "box": "breathing",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1772,
+      "date": "c. 1771–1772 (published 1777)",
+      "era": "air",
+      "art": "flame",
+      "title": "‘Fire air’ in Sweden",
+      "who": "Carl Wilhelm Scheele",
+      "where": "Uppsala, Sweden",
+      "country": "Sweden",
+      "text": "The pharmacist Scheele heated chemicals and collected a gas that made things burn brightly. He called it ‘fire air’. His book about it was not printed until 1777, so others published first.",
+      "why": "He was probably the first to make oxygen, which is why historians share the credit.",
+      "box": "oxygen",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1774,
+      "date": "1 August 1774",
+      "era": "air",
+      "art": "flask",
+      "key": true,
+      "title": "Oxygen is found",
+      "who": "Joseph Priestley",
+      "where": "Calne, England",
+      "country": "United Kingdom",
+      "text": "Priestley used a big lens to focus sunlight on red mercury oxide and collected the gas it gave off. A candle burned brilliantly in it, and a mouse lived longer in it than in ordinary air. Later he breathed some himself and said it felt light and easy.",
+      "why": "Oxygen is the gas your lungs exist to collect.",
+      "box": "oxygen",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1777,
+      "date": "1777",
+      "era": "air",
+      "art": "flame",
+      "key": true,
+      "title": "Breathing is a slow fire",
+      "who": "Antoine Lavoisier",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Lavoisier, who went on to name oxygen, showed that animals use up this part of the air and breathe out carbon dioxide, just as a burning candle does. Only the oxygen mattered; the rest of the air came in and went out unchanged.",
+      "why": "It explained what breathing is really for: burning food with oxygen to release energy.",
+      "box": "oxygen",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "1782–1790",
+      "era": "air",
+      "art": "thermometer",
+      "title": "Measuring the fire inside",
+      "who": "Antoine Lavoisier, Pierre-Simon Laplace, Armand Séguin and Marie-Anne Lavoisier",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In the winter of 1782–83 Lavoisier and Laplace put a guinea pig inside a jacket of ice and measured how much ice its body heat melted. Around 1789–90 Lavoisier and Séguin measured how much oxygen a person used when resting, eating and working. Marie-Anne Lavoisier took part and drew the experiments.",
+      "why": "These were the first measurements of how fast a body burns oxygen.",
+      "box": "oxygen",
+      "sources": [
+        19,
+        18,
+        17
+      ]
+    },
+    {
+      "year": 1816,
+      "date": "1816",
+      "era": "measure",
+      "art": "ear",
+      "title": "A paper tube becomes the stethoscope",
+      "who": "René Laennec",
+      "where": "Necker Hospital, Paris, France",
+      "country": "France",
+      "text": "Laennec did not want to press his ear to a young woman’s chest, so he rolled paper into a tube and listened through it. He heard the heart more clearly than ever, and soon made wooden tubes. In 1819 he published a book linking the sounds of the chest to lung diseases.",
+      "why": "Doctors could now listen to the lungs, which they still do every day.",
+      "box": "health",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1846,
+      "date": "1846",
+      "era": "measure",
+      "art": "lungs",
+      "title": "The spirometer and ‘vital capacity’",
+      "who": "John Hutchinson",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Hutchinson built a spirometer, a bell floating in water that rises as you blow into it. He measured thousands of people and named the biggest breath you can blow out the ‘vital capacity’. He found it grows with height and falls with age and illness.",
+      "why": "Blowing into a spirometer is still how doctors test lungs today.",
+      "box": "volumes",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "24 March 1882",
+      "era": "measure",
+      "art": "lens",
+      "key": true,
+      "title": "The germ that causes TB",
+      "who": "Robert Koch",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Tuberculosis was one of the biggest killers in the world. At a meeting of the Berlin Physiological Society, Koch showed the microbe that causes it, using more than 200 slides he had prepared. The date, 24 March, is now World TB Day.",
+      "why": "Knowing the cause made it possible to find TB, stop it spreading and, later, cure it, a fight that still matters most in India.",
+      "box": "health",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "8 November 1895",
+      "era": "measure",
+      "art": "xray",
+      "title": "Seeing inside the chest",
+      "who": "Wilhelm Röntgen",
+      "where": "Würzburg, Germany",
+      "country": "Germany",
+      "text": "Röntgen discovered a new kind of invisible ray that passes through soft flesh but not bone, and made a picture of the bones in his wife’s hand. Within months doctors were using X-rays.",
+      "why": "The chest X-ray became a key way to see lung disease such as TB and pneumonia.",
+      "box": "health",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904",
+      "era": "measure",
+      "art": "molecule",
+      "title": "Carbon dioxide helps blood let go of oxygen",
+      "who": "Christian Bohr, Karl Albert Hasselbalch and August Krogh",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "The team measured how much oxygen blood holds at different pressures. The curve was S-shaped, and more carbon dioxide made blood hold oxygen less tightly. This is the Bohr effect, and it relied on a precise instrument that Krogh designed.",
+      "why": "Busy muscles make carbon dioxide, so they get more oxygen exactly when they need it.",
+      "box": "oxygen",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1909–1910",
+      "era": "measure",
+      "art": "membrane",
+      "title": "Oxygen simply diffuses",
+      "who": "August and Marie Krogh",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "Christian Bohr thought lung cells actively pumped oxygen into the blood. August and Marie Krogh, testing on themselves with a single-breath method, showed that oxygen and carbon dioxide just drift across the thin wall from high pressure to low. Marie’s single-breath idea is still behind a lung test used today.",
+      "why": "It showed why the lungs need a huge, thin surface: diffusion alone has to do the job.",
+      "box": "alveoli",
+      "sources": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "12 October 1928",
+      "era": "machines",
+      "art": "lungs",
+      "title": "The iron lung",
+      "who": "Philip Drinker and Louis Agassiz Shaw",
+      "where": "Boston, USA",
+      "country": "United States",
+      "text": "Polio could paralyse the muscles used for breathing. Drinker and Shaw built a sealed metal tank that lowered and raised the air pressure around a patient’s body, so air flowed in and out of the lungs. Its first patient was an eight-year-old girl at Boston Children’s Hospital.",
+      "why": "Iron lungs kept thousands of polio patients alive, and they copy the same pressure trick your own chest uses.",
+      "box": "breathing",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1929",
+      "era": "machines",
+      "art": "waterdrop",
+      "title": "The wet lining fights back",
+      "who": "Kurt von Neergaard",
+      "where": "Zurich, Switzerland",
+      "country": "Switzerland",
+      "text": "Von Neergaard found that lungs filled with liquid inflate far more easily than lungs filled with air. He reasoned that surface tension in the wet lining of the air sacs pulls them shut, and guessed something must lower it.",
+      "why": "His idea was ignored for about 25 years, but it was the first clue to surfactant.",
+      "box": "alveoli",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950 and 1964",
+      "era": "machines",
+      "art": "flame",
+      "title": "Smoking causes lung cancer",
+      "who": "Richard Doll, Austin Bradford Hill, Ernst Wynder and Evarts Graham",
+      "where": "London, England, and St Louis, USA",
+      "country": "United Kingdom",
+      "text": "In 1950, two large studies, one in the USA and one in Britain, compared people with lung cancer to people without it. Nearly all the patients were smokers. In 1964 the US Surgeon General’s report said plainly that cigarette smoking causes lung cancer.",
+      "why": "It is the main reason doctors and governments now fight tobacco.",
+      "box": "health",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "26 August 1952",
+      "era": "machines",
+      "art": "building",
+      "key": true,
+      "title": "Students breathe for polio patients",
+      "who": "Bjørn Ibsen",
+      "where": "Blegdam Hospital, Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "A polio epidemic left hundreds of people in Copenhagen unable to breathe, and there were very few iron lungs. The anaesthetist Ibsen put a tube into the windpipe of 12-year-old Vivi Ebert and pushed air in with a squeezed rubber bag. Hundreds of medical students then took turns squeezing bags day and night, and far fewer patients died.",
+      "why": "Pushing air in, instead of pulling it in, is how modern ventilators work, and Ibsen went on to open what is often called the first intensive care unit.",
+      "box": "breathing",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1955–1957",
+      "era": "machines",
+      "art": "waterdrop",
+      "title": "Surfactant is found",
+      "who": "Richard Pattle and John Clements",
+      "where": "Porton Down, England, and Maryland, USA",
+      "country": "United Kingdom",
+      "text": "While studying how nerve gases harm the lungs, Pattle in Britain noticed that foam from lungs was unusually long-lasting. Clements in the USA measured lung fluid on a special balance and showed it could make surface tension very low. The substance was named surfactant.",
+      "why": "Surfactant stops the tiny air sacs from collapsing each time you breathe out.",
+      "box": "alveoli",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1955–1958",
+      "era": "machines",
+      "art": "gear",
+      "title": "The little green box",
+      "who": "Forrest Bird",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Forrest Bird, a pilot and inventor who had worked on oxygen masks for high-flying airmen, designed a small ventilator that pushed air into the lungs through a mask or tube. The Bird Mark 7 became one of the first mass-produced, reliable ventilators.",
+      "why": "Small ventilators could be used on any hospital ward, not just in a room of iron lungs.",
+      "box": "breathing",
+      "sources": [
+        40,
+        41
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "machines",
+      "art": "person",
+      "key": true,
+      "title": "Why premature babies struggle to breathe",
+      "who": "Mary Ellen Avery and Jere Mead",
+      "where": "Harvard School of Public Health, Boston, USA",
+      "country": "United States",
+      "text": "Many babies born too early died of hyaline membrane disease, and nobody knew why. Avery and Mead tested fluid from the lungs of babies who had died and found it was missing surfactant. Without it, the babies’ air sacs collapsed with every breath.",
+      "why": "Their discovery led to surfactant treatment, which has saved hundreds of thousands of newborn babies.",
+      "box": "alveoli",
+      "sources": [
+        42,
+        43
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "1972–1975",
+      "era": "machines",
+      "art": "chip",
+      "key": true,
+      "title": "The pulse oximeter",
+      "who": "Takuo Aoyagi",
+      "where": "Nihon Kohden, Tokyo, Japan",
+      "country": "Japan",
+      "text": "In 1972 the engineer Aoyagi was annoyed by a ‘noise’ in his light signals that went up and down with each heartbeat. He realised that the pulsing red and infrared light could reveal how much oxygen the blood carried. He presented the idea in 1974, and in 1975 Nihon Kohden sold the first ear oximeter.",
+      "why": "Every clip-on finger oximeter, used by millions in the COVID-19 pandemic, works on his idea.",
+      "box": "oxygen",
+      "sources": [
+        47,
+        48
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "12 January 1980",
+      "era": "machines",
+      "art": "waterdrop",
+      "title": "Surfactant for babies",
+      "who": "Tetsuro Fujiwara and colleagues",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Fujiwara’s team in Japan made a surfactant from cow lungs and gave it through a tube to ten very sick premature babies. Their oxygen levels improved quickly, and their X-rays cleared. The results were published in The Lancet.",
+      "why": "It turned Avery’s discovery into a treatment now used in newborn units around the world.",
+      "box": "alveoli",
+      "sources": [
+        49,
+        35
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1963 and 1983",
+      "era": "machines",
+      "art": "lungs",
+      "title": "A new lung that lasts",
+      "who": "James Hardy, then Joel Cooper",
+      "where": "Jackson, Mississippi, USA, and Toronto, Canada",
+      "country": "Canada",
+      "text": "In 1963 James Hardy performed the first human lung transplant, but the patient lived only 18 days. Twenty years later Joel Cooper’s team in Toronto gave a single new lung to Tom Hall, who lived for years. Better drugs to calm the immune system made the difference.",
+      "why": "Transplants now give people with failing lungs a second chance.",
+      "sources": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "2–3 December 1984",
+      "era": "machines",
+      "art": "wind",
+      "title": "Poison gas in Bhopal",
+      "who": "People of Bhopal",
+      "where": "Bhopal, Madhya Pradesh, India",
+      "country": "India",
+      "text": "About 45 tonnes of methyl isocyanate gas leaked from a pesticide factory at night and spread over the sleeping city. Thousands died within days, and estimates of the total deaths vary widely. Hundreds of thousands of survivors were left with damaged lungs and eyes.",
+      "why": "It is one of the worst industrial disasters ever, and a reminder that what we breathe can kill.",
+      "box": "health",
+      "sources": [
+        50,
+        51
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2003–2005",
+      "era": "modern",
+      "art": "word",
+      "title": "A world treaty against tobacco",
+      "who": "World Health Organization member states",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "The World Health Assembly adopted the Framework Convention on Tobacco Control on 21 May 2003, and it came into force on 27 February 2005. India ratified it in 2004, and in 2003 passed its own tobacco law, COTPA.",
+      "why": "Taxes, warnings and smoke-free places have helped cut tobacco use, including in India.",
+      "box": "health",
+      "sources": [
+        52,
+        53
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "April–May 2021",
+      "era": "modern",
+      "art": "molecule",
+      "key": true,
+      "title": "India’s oxygen emergency",
+      "who": "Hospitals, oxygen makers and railways across India",
+      "where": "India",
+      "country": "India",
+      "text": "In the COVID-19 second wave, sick lungs could not take in enough oxygen, and hospitals ran short. The government told Parliament that daily demand for medical oxygen peaked at nearly 9,000 tonnes, about three times the first wave’s peak. Special Oxygen Express trains and air force planes rushed oxygen tankers across the country.",
+      "why": "It showed a whole country how vital the oxygen in every breath is.",
+      "box": "oxygen",
+      "sources": [
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "22 September 2021",
+      "era": "modern",
+      "art": "earth",
+      "title": "Stricter limits for dirty air",
+      "who": "World Health Organization",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "WHO halved its guideline for fine PM2.5 dust to a yearly average of 5 micrograms per cubic metre, with a 24-hour limit of 15. These tiny particles slip deep into the air sacs. Most cities in India are many times above the new limit.",
+      "why": "Clean air is one of the biggest things that keeps lungs healthy for life.",
+      "box": "health",
+      "sources": [
+        56,
+        55
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Correct description of blood flowing through the lungs",
+      "value": "c. 1242",
+      "who": "Ibn al-Nafis, Egypt"
+    },
+    {
+      "label": "Animal kept alive by pumping air into its lungs",
+      "value": "1667",
+      "who": "Robert Hooke, England"
+    },
+    {
+      "label": "Oxygen made in a lab",
+      "value": "c. 1771–1774",
+      "who": "Carl Wilhelm Scheele, Sweden, and Joseph Priestley, England"
+    },
+    {
+      "label": "Stethoscope",
+      "value": "1816",
+      "who": "René Laennec, France"
+    },
+    {
+      "label": "Spirometer and ‘vital capacity’",
+      "value": "1846",
+      "who": "John Hutchinson, England"
+    },
+    {
+      "label": "Iron lung used on a patient",
+      "value": "1928",
+      "who": "Philip Drinker and Louis Agassiz Shaw, USA"
+    },
+    {
+      "label": "Intensive care unit (widely credited)",
+      "value": "1953",
+      "who": "Bjørn Ibsen, Denmark"
+    },
+    {
+      "label": "Pulse oximeter on sale",
+      "value": "1975",
+      "who": "Takuo Aoyagi and Nihon Kohden, Japan"
+    },
+    {
+      "label": "Long-term successful lung transplant",
+      "value": "1983",
+      "who": "Joel Cooper’s team, Canada"
+    }
+  ],
+  "people": [
+    {
+      "name": "Galen of Pergamon",
+      "life": "129 – c. 216",
+      "role": "Physician",
+      "from": "Pergamon (today Türkiye)",
+      "note": "Taught that breathing cools the heart and brings in pneuma; his ideas lasted over a thousand years."
+    },
+    {
+      "name": "Ibn al-Nafis",
+      "life": "c. 1213 – 1288",
+      "role": "Physician",
+      "from": "Damascus (Syria), worked in Cairo",
+      "note": "First to describe blood passing through the lungs to pick up air."
+    },
+    {
+      "name": "Robert Hooke",
+      "life": "1635 – 1703",
+      "role": "Natural philosopher",
+      "from": "England",
+      "note": "Built Boyle’s air pump and kept a dog alive with bellows."
+    },
+    {
+      "name": "Carl Wilhelm Scheele",
+      "life": "1742 – 1786",
+      "role": "Pharmacist and chemist",
+      "from": "Sweden (born in Swedish Pomerania)",
+      "note": "Probably made oxygen first, but published late."
+    },
+    {
+      "name": "Joseph Priestley",
+      "life": "1733 – 1804",
+      "role": "Minister and chemist",
+      "from": "England",
+      "note": "Made oxygen with sunlight and a lens in 1774 and tested it on a mouse and himself."
+    },
+    {
+      "name": "Antoine Lavoisier",
+      "life": "1743 – 1794",
+      "role": "Chemist",
+      "from": "France",
+      "note": "Named oxygen and showed that breathing is a slow burning."
+    },
+    {
+      "name": "Marie-Anne Paulze Lavoisier",
+      "life": "1758 – 1836",
+      "role": "Scientist, translator and illustrator",
+      "from": "France",
+      "note": "Worked in the lab and drew the famous breathing experiments."
+    },
+    {
+      "name": "René Laennec",
+      "life": "1781 – 1826",
+      "role": "Physician",
+      "from": "France",
+      "note": "Invented the stethoscope and linked chest sounds to lung disease."
+    },
+    {
+      "name": "John Hutchinson",
+      "life": "1811 – 1861",
+      "role": "Surgeon",
+      "from": "England",
+      "note": "Invented the spirometer and named vital capacity."
+    },
+    {
+      "name": "Robert Koch",
+      "life": "1843 – 1910",
+      "role": "Physician and microbiologist",
+      "from": "Germany",
+      "note": "Found the germ that causes tuberculosis."
+    },
+    {
+      "name": "Marie Krogh",
+      "life": "1874 – 1943",
+      "role": "Physician and physiologist",
+      "from": "Denmark",
+      "note": "Helped prove that oxygen diffuses into the blood, and devised a single-breath lung test."
+    },
+    {
+      "name": "Bjørn Ibsen",
+      "life": "1911 – 2007",
+      "role": "Anaesthetist",
+      "from": "Denmark",
+      "note": "Saved polio patients by pushing air into their lungs, and founded intensive care."
+    },
+    {
+      "name": "Mary Ellen Avery",
+      "life": "1927 – 2011",
+      "role": "Paediatrician",
+      "from": "USA",
+      "note": "Showed that premature babies lack surfactant, opening the way to a cure."
+    },
+    {
+      "name": "Takuo Aoyagi",
+      "life": "1936 – 2020",
+      "role": "Engineer",
+      "from": "Japan",
+      "note": "Invented pulse oximetry, measuring blood oxygen with light."
+    }
+  ],
+  "series": [
+    {
+      "id": "tobacco",
+      "title": "Adults in India who use tobacco",
+      "unit": "%",
+      "log": false,
+      "after": "modern",
+      "caption": "Share of Indian adults (15 and over) using any form of tobacco, smoked or smokeless, in the two rounds of the Global Adult Tobacco Survey.",
+      "points": [
+        {
+          "year": 2010,
+          "value": 34.6,
+          "label": "GATS-1 (2009–10): 34.6% (smoking 14.0%)"
+        },
+        {
+          "year": 2017,
+          "value": 28.6,
+          "label": "GATS-2 (2016–17): 28.6% (smoking 10.7%)"
+        }
+      ]
+    },
+    {
+      "id": "tb",
+      "title": "New TB cases in India each year",
+      "unit": "per 100,000 people",
+      "log": false,
+      "after": "modern",
+      "caption": "WHO estimates of tuberculosis incidence in India from the Global TB Report 2025: a 21% fall, but India still has about a quarter of the world’s cases.",
+      "points": [
+        {
+          "year": 2015,
+          "value": 237,
+          "label": "WHO estimate: 237 per 100,000"
+        },
+        {
+          "year": 2024,
+          "value": 187,
+          "label": "WHO estimate: 187 per 100,000 (about 2.7 million people)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Your lungs hold about 480 million tiny air sacs, according to careful counts of adult lungs.",
+    "The stethoscope began as a rolled-up sheet of paper, because Laennec felt awkward putting his ear on a patient’s chest.",
+    "In Copenhagen in 1952, hundreds of medical students squeezed rubber bags by hand, day and night, to breathe for polio patients.",
+    "Ibn al-Nafis described blood passing through the lungs about 300 years before European anatomists, but his book was only rediscovered in Berlin in 1924.",
+    "The pulse oximeter was born from a nuisance: a heartbeat ‘noise’ in a light signal that Takuo Aoyagi was trying to cancel out."
+  ],
+  "sources": [
+    {
+      "title": "Pranavaha srotas",
+      "publisher": "Charak Samhita Online (Charak Samhita Research, Training and Skill Development Centre)",
+      "url": "https://www.carakasamhitaonline.com/index.php?title=Pranavaha_srotas"
+    },
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Huangdi Neijing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Huangdi_Neijing"
+    },
+    {
+      "title": "Lung (Chinese medicine)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lung_(Chinese_medicine)"
+    },
+    {
+      "title": "Galen: Anatomy and Physiology",
+      "publisher": "Encyclopedia.com (Science and Its Times)",
+      "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/galen-anatomy-and-physiology"
+    },
+    {
+      "title": "Physiology in Perspective: The Breath of Life",
+      "publisher": "Physiology (American Physiological Society)",
+      "url": "https://journals.physiology.org/doi/full/10.1152/physiol.00032.2018"
+    },
+    {
+      "title": "Pneuma",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pneuma"
+    },
+    {
+      "title": "Ibn al-Nafis, the pulmonary circulation, and the Islamic Golden Age (J. B. West, 2008)",
+      "publisher": "Journal of Applied Physiology",
+      "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.91171.2008"
+    },
+    {
+      "title": "Ibn al-Nafis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
+    },
+    {
+      "title": "Robert Boyle's landmark book of 1660 with the first experiments on rarified air (J. B. West, 2005)",
+      "publisher": "Journal of Applied Physiology",
+      "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00759.2004"
+    },
+    {
+      "title": "Pumped Up",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/stories/magazine/pumped-up/"
+    },
+    {
+      "title": "Boyle's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boyle%27s_law"
+    },
+    {
+      "title": "An account of an experiment made by M. Hook, of preserving animals alive by blowing through their lungs with bellows",
+      "publisher": "Philosophical Transactions of the Royal Society",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1666.0043"
+    },
+    {
+      "title": "Robert Hooke: Early Respiratory Physiologist, Polymath, and Mechanical Genius (J. B. West, 2014)",
+      "publisher": "Physiology (American Physiological Society)",
+      "url": "https://journals.physiology.org/doi/full/10.1152/physiol.00005.2014"
+    },
+    {
+      "title": "Carl Wilhelm Scheele",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+    },
+    {
+      "title": "Joseph Priestley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Priestley"
+    },
+    {
+      "title": "Priestley Discovers Oxygen",
+      "publisher": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/priestley-discovers-oxygen"
+    },
+    {
+      "title": "Hallmarks in the study of respiratory physiology and the crucial role of Antoine-Laurent de Lavoisier (1743–1794)",
+      "publisher": "American Journal of Physiology: Lung Cellular and Molecular Physiology",
+      "url": "https://journals.physiology.org/doi/full/10.1152/ajplung.00142.2013"
+    },
+    {
+      "title": "The collaboration of Antoine and Marie-Anne Lavoisier and the first measurements of human oxygen consumption",
+      "publisher": "American Journal of Physiology: Lung Cellular and Molecular Physiology",
+      "url": "https://journals.physiology.org/doi/full/10.1152/ajplung.00228.2013"
+    },
+    {
+      "title": "The Father of Modern Chemistry Proved Respiration Occurred by Freezing a Guinea Pig",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/father-modern-chemistry-proved-respiration-occurred-freezing-guinea-pig-180964596/"
+    },
+    {
+      "title": "René Laennec",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Laennec"
+    },
+    {
+      "title": "De l'auscultation médiate",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/De-lauscultation-mediate"
+    },
+    {
+      "title": "Exploring the 175-year history of spirometry and the vital lessons it can teach us today",
+      "publisher": "European Respiratory Review",
+      "url": "https://publications.ersnet.org/content/errev/30/162/210081"
+    },
+    {
+      "title": "John Hutchinson (surgeon)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Hutchinson_(surgeon)"
+    },
+    {
+      "title": "March 24: The Lecture That Unraveled the Mystery of Tuberculosis",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/today-in-history/March-24-The-Lecture-That-Unraveled-the-Mystery-of-Tuberculosis"
+    },
+    {
+      "title": "Robert Heinrich Herman Koch",
+      "publisher": "The Lancet Respiratory Medicine",
+      "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(14)70018-9/fulltext"
+    },
+    {
+      "title": "November 8, 1895: Roentgen's Discovery of X-Rays",
+      "publisher": "American Physical Society (APS News)",
+      "url": "https://www.aps.org/apsnews/2001/11/1895-roentgens-discovery-xrays"
+    },
+    {
+      "title": "Bohr effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohr_effect"
+    },
+    {
+      "title": "Bohr, Hasselbalch and Krogh (1904), English translation",
+      "publisher": "University of Delaware",
+      "url": "https://www1.udel.edu/chem/white/C342/Bohr(1904).html"
+    },
+    {
+      "title": "Diffusive insights: on the disagreement of Christian Bohr and August Krogh at the Centennial of the Seven Little Devils",
+      "publisher": "Advances in Physiology Education",
+      "url": "https://journals.physiology.org/doi/full/10.1152/advan.00092.2010"
+    },
+    {
+      "title": "Celebrating women in physiology: Marie Krogh and the single-breath technique for measuring pulmonary diffusing capacity",
+      "publisher": "Experimental Physiology (via PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11607610/"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1920",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1920/summary/"
+    },
+    {
+      "title": "The Iron Lung",
+      "publisher": "Science Museum, London",
+      "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/iron-lung"
+    },
+    {
+      "title": "Iron lung",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iron_lung"
+    },
+    {
+      "title": "Pioneers of surfactant research",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pioneers_of_surfactant_research"
+    },
+    {
+      "title": "Surfactants: past, present and future (H. L. Halliday, 2008)",
+      "publisher": "Journal of Perinatology",
+      "url": "https://www.nature.com/articles/jp200850"
+    },
+    {
+      "title": "Smoking and Carcinoma of the Lung: Preliminary Report (Doll and Hill, 1950)",
+      "publisher": "British Medical Journal (archived by the Center for the Study of Tobacco and Society, University of Alabama)",
+      "url": "https://csts.ua.edu/files/2019/01/1950-09-30-BMJ-Smoking-Carcinoma-of-the-Lung-Doll-Hill.pdf"
+    },
+    {
+      "title": "The 1964 Report on Smoking and Health",
+      "publisher": "U.S. National Library of Medicine, Profiles in Science",
+      "url": "https://profiles.nlm.nih.gov/spotlight/nn/feature/smoking"
+    },
+    {
+      "title": "Bjørn Ibsen: What Made Intensive Care So Critical?",
+      "publisher": "Cureus (via PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11411485/"
+    },
+    {
+      "title": "How a Polio Outbreak in Copenhagen Led to the Invention of the Ventilator",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/innovation/how-polio-outbreak-copenhagen-led-to-invention-ventilator-180975045/"
+    },
+    {
+      "title": "Forrest Bird",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Forrest_Bird"
+    },
+    {
+      "title": "Bird Mark 7 Respirator",
+      "publisher": "Wood Library-Museum of Anesthesiology",
+      "url": "https://www.woodlibrarymuseum.org/museum/bird-mark-7-respirator/"
+    },
+    {
+      "title": "The Story of Surfactant: Mary Ellen Avery, Highlights from Her Collection",
+      "publisher": "Countway Library, Harvard Medical School",
+      "url": "https://collections.countway.harvard.edu/onview/exhibits/show/avery/the-story-of-surfactant"
+    },
+    {
+      "title": "Mary Ellen Avery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mary_Ellen_Avery"
+    },
+    {
+      "title": "James Hardy (surgeon)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Hardy_(surgeon)"
+    },
+    {
+      "title": "Lung transplantation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lung_transplantation"
+    },
+    {
+      "title": "History of medicine: Organ transplantation",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/science/history-of-medicine/Organ-transplantation"
+    },
+    {
+      "title": "Takuo Aoyagi and the pulse oximeter",
+      "publisher": "Nihon Kohden",
+      "url": "https://www.nihonkohden.com/technology/aoyagi.html"
+    },
+    {
+      "title": "Milestones: Pulse Oximetry, 1972",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Pulse_Oximetry,_1972"
+    },
+    {
+      "title": "Artificial surfactant therapy in hyaline-membrane disease (Fujiwara et al., The Lancet, 1980)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6101413/"
+    },
+    {
+      "title": "Bhopal disaster",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/event/Bhopal-disaster"
+    },
+    {
+      "title": "The Bhopal disaster and its aftermath: a review (Broughton, 2005)",
+      "publisher": "Environmental Health (via PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1142333/"
+    },
+    {
+      "title": "WHO Framework Convention on Tobacco Control",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WHO_Framework_Convention_on_Tobacco_Control"
+    },
+    {
+      "title": "WHO Framework Convention on Tobacco Control (WHO FCTC)",
+      "publisher": "National Tobacco Control Programme, Ministry of Health and Family Welfare, India",
+      "url": "https://ntcp.mohfw.gov.in/who_fctc"
+    },
+    {
+      "title": "GATS-2 Global Adult Tobacco Survey Fact Sheet, India 2016–17",
+      "publisher": "Ministry of Health and Family Welfare, Government of India",
+      "url": "https://ntcp.mohfw.gov.in/assets/document/surveys-reports-publications/GATS-2-FactSheet.pdf"
+    },
+    {
+      "title": "Billions of people still breathe unhealthy air: new WHO data (note for editors: 2021 guideline values)",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/04-04-2022-billions-of-people-still-breathe-unhealthy-air-new-who-data"
+    },
+    {
+      "title": "New WHO Global Air Quality Guidelines aim to save millions of lives from air pollution",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/22-09-2021-new-who-global-air-quality-guidelines-aim-to-save-millions-of-lives-from-air-pollution"
+    },
+    {
+      "title": "No deaths due to oxygen shortage reported by states, UTs in second wave, says Centre",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/health/states-uts-didnt-report-deaths-due-to-oxygen-shortage-during-covid-2nd-wave-says-centre/699598/"
+    },
+    {
+      "title": "Medical oxygen demand peaked to nearly 9,000 MT in 2nd Covid wave: Govt",
+      "publisher": "Deccan Herald",
+      "url": "https://www.deccanherald.com/india/medical-oxygen-demand-peaked-to-nearly-9000-mt-in-2nd-covid-wave-govt-1012079.html"
+    },
+    {
+      "title": "Oxygen Express",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oxygen_Express"
+    },
+    {
+      "title": "TB incidence in India drops by 21% from 237 per lakh population in 2015 to 187 per lakh population in 2024",
+      "publisher": "Ministry of Health and Family Welfare, Government of India (Press Information Bureau)",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2189415"
+    },
+    {
+      "title": "Global Tuberculosis Report 2025",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/tb-reports/global-tuberculosis-report-2025"
+    },
+    {
+      "title": "The number of alveoli in the human lung (Ochs et al., 2004)",
+      "publisher": "American Journal of Respiratory and Critical Care Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14512270/"
+    }
+  ]
+}
